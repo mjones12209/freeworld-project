@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/freeworld-project/static/css/main.211dbd0b.chunk.css",
+    "main.js": "/freeworld-project/static/js/main.3d3cf445.chunk.js",
+    "main.js.map": "/freeworld-project/static/js/main.3d3cf445.chunk.js.map",
+    "runtime-main.js": "/freeworld-project/static/js/runtime-main.debce9d5.js",
+    "runtime-main.js.map": "/freeworld-project/static/js/runtime-main.debce9d5.js.map",
+    "static/js/2.62058003.chunk.js": "/freeworld-project/static/js/2.62058003.chunk.js",
+    "static/js/2.62058003.chunk.js.map": "/freeworld-project/static/js/2.62058003.chunk.js.map",
+    "static/js/3.c559eca0.chunk.js": "/freeworld-project/static/js/3.c559eca0.chunk.js",
+    "static/js/3.c559eca0.chunk.js.map": "/freeworld-project/static/js/3.c559eca0.chunk.js.map",
+    "index.html": "/freeworld-project/index.html",
+    "static/css/main.211dbd0b.chunk.css.map": "/freeworld-project/static/css/main.211dbd0b.chunk.css.map",
+    "static/js/2.62058003.chunk.js.LICENSE.txt": "/freeworld-project/static/js/2.62058003.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.debce9d5.js",
+    "static/js/2.62058003.chunk.js",
+    "static/css/main.211dbd0b.chunk.css",
+    "static/js/main.3d3cf445.chunk.js"
+  ]
+}
